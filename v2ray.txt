@@ -1,1 +1,0 @@
-vless://Channel____XsV2ray@XsV2ray.xalixv2ray.space:443?mode=multi&security=reality&encryption=none&pbk=ZPmUWk47jZisksibWS48wlo8kD8wOvXxy1z8kLMNdQ0&fp=firefox&spx=%2F&type=grpc&serviceName=@XsV2ray,@XsV2ray&sni=www.speedtest.net&sid=9ce5bc61#%40XsV2ray-17u6ehsi
