@@ -1,2 +1,5 @@
-warp://188.114.98.220:854/?mtu=1280
-
+warp://auto?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#@GheychiAmoozesh&&detour=warp://162.159.164.197:987?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#@GheychiAmoozesh
+warp://auto?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#@GheychiAmoozesh&&detour=warp://190.93.251.228:894?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#@GheychiAmoozesh
+warp://auto?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#@GheychiAmoozesh&&detour=warp://103.22.202.181:880?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#@GheychiAmoozesh
+warp://auto?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#@GheychiAmoozesh&&detour=warp://173.245.49.152:880?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#@GheychiAmoozesh
+warp://auto?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#@GheychiAmoozesh&&detour=warp://162.159.81.230:854?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#@GheychiAmoozesh
