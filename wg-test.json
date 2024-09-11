@@ -1,1 +1,250 @@
-
+{
+  "outbounds": [
+    {
+      "type": "wireguard",
+      "tag": "@GheychiAmoozesh § 1",
+      "local_address": [
+        "172.16.0.2/24",
+        "2606:4700:110:8bd6:a77b:130a:e39:54a4/128"
+      ],
+      "private_key": "AJDSnwbAvHH08ehy6MrzKL8ZB5AC+8m5Q3cZi01uH2w=",
+      "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
+      "server": "162.159.195.254",
+      "server_port": 908,
+      "reserved": [
+        111,
+        92,
+        94
+      ],
+      "fake_packets": "5-10",
+      "fake_packets_delay": "20-250",
+      "fake_packets_size": "40-100"
+    },
+    {
+      "type": "wireguard",
+      "tag": "@GheychiAmoozesh § 2",
+      "local_address": [
+        "172.16.0.2/24",
+        "2606:4700:110:8bd6:a77b:130a:e39:54a4/128"
+      ],
+      "private_key": "aEckYWtotSBKnGbj2LUcAqtMivZ/djmixmo0RPNkMWQ=",
+      "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
+      "server": "162.159.195.254",
+      "server_port": 1843,
+      "reserved": [
+        217,
+        138,
+        65
+      ],
+      "fake_packets": "5-10",
+      "fake_packets_delay": "20-250",
+      "fake_packets_size": "40-100",
+      "detour": "@GheychiAmoozesh § 1"
+    },
+    {
+      "type": "wireguard",
+      "tag": "@GheychiAmoozesh § 3",
+      "local_address": [
+        "172.16.0.2/24",
+        "2606:4700:110:8bd6:a77b:130a:e39:54a4/128"
+      ],
+      "private_key": "wFNoWa7HbLnR5k+Jm2vkEBn+8FI3VfJ9t+IZOUusOUg=",
+      "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
+      "server": "162.159.192.48",
+      "server_port": 2506,
+      "reserved": [
+        223,
+        3,
+        110
+      ],
+      "fake_packets": "5-10",
+      "fake_packets_delay": "20-250",
+      "fake_packets_size": "40-100"
+    },
+    {
+      "type": "wireguard",
+      "tag": "@GheychiAmoozesh § 4",
+      "local_address": [
+        "172.16.0.2/24",
+        "2606:4700:110:8bd6:a77b:130a:e39:54a4/128"
+      ],
+      "private_key": "aEckYWtotSBKnGbj2LUcAqtMivZ/djmixmo0RPNkMWQ=",
+      "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
+      "server": "162.159.192.48",
+      "server_port": 908,
+      "reserved": [
+        231,
+        242,
+        74
+      ],
+      "fake_packets": "5-10",
+      "fake_packets_delay": "20-250",
+      "fake_packets_size": "40-100",
+      "detour": "@GheychiAmoozesh § 3"
+    },
+    {
+      "type": "wireguard",
+      "tag": "@GheychiAmoozesh § 5",
+      "local_address": [
+        "172.16.0.2/24",
+        "2606:4700:110:8bd6:a77b:130a:e39:54a4/128"
+      ],
+      "private_key": "wFNoWa7HbLnR5k+Jm2vkEBn+8FI3VfJ9t+IZOUusOUg=",
+      "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
+      "server": "188.114.99.122",
+      "server_port": 934,
+      "reserved": [
+        104,
+        20,
+        150
+      ],
+      "fake_packets": "5-10",
+      "fake_packets_delay": "20-250",
+      "fake_packets_size": "40-100"
+    },
+    {
+      "type": "wireguard",
+      "tag": "@GheychiAmoozesh § 6",
+      "local_address": [
+        "172.16.0.2/24",
+        "2606:4700:110:8bd6:a77b:130a:e39:54a4/128"
+      ],
+      "private_key": "uFNA1NSmSa3ECPXwsrulLM1mpxeITNPDXjA1b4cgol8=",
+      "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
+      "server": "188.114.99.122",
+      "server_port": 908,
+      "reserved": [
+        34,
+        56,
+        45
+      ],
+      "fake_packets": "5-10",
+      "fake_packets_delay": "20-250",
+      "fake_packets_size": "40-100",
+      "detour": "@GheychiAmoozesh § 5"
+    },
+    {
+      "type": "wireguard",
+      "tag": "@GheychiAmoozesh § 7",
+      "local_address": [
+        "172.16.0.2/24",
+        "2606:4700:110:8bd6:a77b:130a:e39:54a4/128"
+      ],
+      "private_key": "uFNA1NSmSa3ECPXwsrulLM1mpxeITNPDXjA1b4cgol8=",
+      "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
+      "server": "188.114.97.224",
+      "server_port": 2506,
+      "reserved": [
+        221,
+        192,
+        6
+      ],
+      "fake_packets": "5-10",
+      "fake_packets_delay": "20-250",
+      "fake_packets_size": "40-100"
+    },
+    {
+      "type": "wireguard",
+      "tag": "@GheychiAmoozesh § 8",
+      "local_address": [
+        "172.16.0.2/24",
+        "2606:4700:110:8bd6:a77b:130a:e39:54a4/128"
+      ],
+      "private_key": "AJDSnwbAvHH08ehy6MrzKL8ZB5AC+8m5Q3cZi01uH2w=",
+      "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
+      "server": "188.114.97.224",
+      "server_port": 1843,
+      "reserved": [
+        104,
+        116,
+        228
+      ],
+      "fake_packets": "5-10",
+      "fake_packets_delay": "20-250",
+      "fake_packets_size": "40-100",
+      "detour": "@GheychiAmoozesh § 7"
+    },
+    {
+      "type": "wireguard",
+      "tag": "@GheychiAmoozesh § 9",
+      "local_address": [
+        "172.16.0.2/24",
+        "2606:4700:110:8bd6:a77b:130a:e39:54a4/128"
+      ],
+      "private_key": "aEckYWtotSBKnGbj2LUcAqtMivZ/djmixmo0RPNkMWQ=",
+      "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
+      "server": "188.114.97.158",
+      "server_port": 934,
+      "reserved": [
+        169,
+        21,
+        70
+      ],
+      "fake_packets": "5-10",
+      "fake_packets_delay": "20-250",
+      "fake_packets_size": "40-100"
+    },
+    {
+      "type": "wireguard",
+      "tag": "@GheychiAmoozesh § 10",
+      "local_address": [
+        "172.16.0.2/24",
+        "2606:4700:110:8bd6:a77b:130a:e39:54a4/128"
+      ],
+      "private_key": "AJDSnwbAvHH08ehy6MrzKL8ZB5AC+8m5Q3cZi01uH2w=",
+      "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
+      "server": "188.114.97.158",
+      "server_port": 1843,
+      "reserved": [
+        133,
+        97,
+        59
+      ],
+      "fake_packets": "5-10",
+      "fake_packets_delay": "20-250",
+      "fake_packets_size": "40-100",
+      "detour": "@GheychiAmoozesh § 9"
+    },
+    {
+      "type": "wireguard",
+      "tag": "@GheychiAmoozesh § 11",
+      "local_address": [
+        "172.16.0.2/24",
+        "2606:4700:110:8bd6:a77b:130a:e39:54a4/128"
+      ],
+      "private_key": "WH093bfqOg7iMfM6RE3mja59KHH26AXbhA4c0LiZYns=",
+      "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
+      "server": "162.159.195.47",
+      "server_port": 2506,
+      "reserved": [
+        123,
+        229,
+        59
+      ],
+      "fake_packets": "5-10",
+      "fake_packets_delay": "20-250",
+      "fake_packets_size": "40-100"
+    },
+    {
+      "type": "wireguard",
+      "tag": "@GheychiAmoozesh § 12",
+      "local_address": [
+        "172.16.0.2/24",
+        "2606:4700:110:8bd6:a77b:130a:e39:54a4/128"
+      ],
+      "private_key": "WH093bfqOg7iMfM6RE3mja59KHH26AXbhA4c0LiZYns=",
+      "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
+      "server": "162.159.195.47",
+      "server_port": 908,
+      "reserved": [
+        216,
+        213,
+        92
+      ],
+      "fake_packets": "5-10",
+      "fake_packets_delay": "20-250",
+      "fake_packets_size": "40-100",
+      "detour": "@GheychiAmoozesh § 11"
+    }
+  ]
+}
