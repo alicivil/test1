@@ -7797,7 +7797,7 @@
         {
           "type": "wireguard",
           "tag": "@GheychiAmoozesh § 412",
-          "local_address": [
+          "local_address": [    
             "172.16.0.2/24",
             "2606:4700:110:81fb:717c:360:5cb5:7732/128"
           ],
