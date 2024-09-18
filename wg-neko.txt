@@ -1,3 +1,4 @@
+[
 {
   "type": "wireguard",
   "tag": "@GheychiAmoozesh § 0",
@@ -54,3 +55,4 @@
   "reserved": "CzZW",
   "mtu": 1280
 }
+]
