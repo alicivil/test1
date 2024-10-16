@@ -1,0 +1,23 @@
+{
+"outbounds":[
+          {
+        "type": "wireguard",
+        "tag": "@GheychiAmoozesh § 1",
+        "local_address": [
+          "172.16.0.2/24",
+          "2606:4700:110:81fb:717c:360:5cb5:7732/128"
+        ],
+        "private_key": "YPJtE3O9po8WrYi8OKrLk4IbwWgFN0agxaiMSxBGrkU=",
+        "server": "188.114.97.113",
+        "server_port": 7156,
+        "peer_public_key": "gdr9ObDePbl4Ffgi2OQcRqatHjaTZ+Dx26UX/CJAaVY=",
+        "reserved": "Kema",
+        "mtu": 1330,
+        "fake_packets": "5-10",
+        "fake_packets_size": "40-100",
+        "fake_packets_delay": "20-250"
+      }
+]
+}
+  
+
