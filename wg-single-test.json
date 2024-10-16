@@ -7,10 +7,10 @@
         "172.16.0.2/24",
         "2606:4700:110:81fb:717c:360:5cb5:7732/128"
       ],
-      "private_key": "iHWrgRXyXedDd8n82hTK5LPoOPaY5TLbP8QhNMiI/HY=",
+      "private_key": "UNalkgQyNeP4nGRjEHfSDbNmRfdpTKola+Art3aTi0Y=",
       "server": "188.114.98.222",
       "server_port": 7156,
-      "peer_public_key": "1IiyHu4o1BAckgI7JXYE5z1nUEh1MquHq+gwo57ZOnw=",
+      "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
       "reserved": "Kema",
       "mtu": 1330,
       "fake_packets": "5-10",
