@@ -1,23 +1,21 @@
 {
-"outbounds":[
-          {
-        "type": "wireguard",
-        "tag": "@GheychiAmoozesh § 1",
-        "local_address": [
-          "172.16.0.2/24",
-          "2606:4700:110:81fb:717c:360:5cb5:7732/128"
-        ],
-        "private_key": "YPJtE3O9po8WrYi8OKrLk4IbwWgFN0agxaiMSxBGrkU=",
-        "server": "188.114.97.113",
-        "server_port": 7156,
-        "peer_public_key": "gdr9ObDePbl4Ffgi2OQcRqatHjaTZ+Dx26UX/CJAaVY=",
-        "reserved": "Kema",
-        "mtu": 1330,
-        "fake_packets": "5-10",
-        "fake_packets_size": "40-100",
-        "fake_packets_delay": "20-250"
-      }
-]
+  "outbounds": [
+    {
+      "type": "wireguard",
+      "tag": "@GheychiAmoozesh § 1",
+      "local_address": [
+        "172.16.0.2/24",
+        "2606:4700:110:81fb:717c:360:5cb5:7732/128"
+      ],
+      "private_key": "iHWrgRXyXedDd8n82hTK5LPoOPaY5TLbP8QhNMiI/HY=",
+      "server": "188.114.98.222",
+      "server_port": 7156,
+      "peer_public_key": "1IiyHu4o1BAckgI7JXYE5z1nUEh1MquHq+gwo57ZOnw=",
+      "reserved": "Kema",
+      "mtu": 1330,
+      "fake_packets": "5-10",
+      "fake_packets_size": "40-100",
+      "fake_packets_delay": "20-250"
+    }
+  ]
 }
-  
-
