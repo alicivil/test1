@@ -1,0 +1,1 @@
+warp://ros7395G-UckB6125-27M9i8FT@162.159.192.76:2408/?ifp=40-80&ifps=50-100&ifps=2-4&ifpm=m4#warp-generated-ipv4&&detour=warp://E8W6b3M2-4Vb53R1z-9RZ4Aa32@[2606:4700:d0::8be4:d75d:e714:abb1]:987/?ifp=40-80&ifps=50-100&ifps=2-4&ifpm=m4#warp-generated-ipv6
