@@ -4,3 +4,5 @@ vmess://eyJhZGQiOiIxMDMuODIuMjUuMTA2IiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6ImVjN2M5
 vless://d0298536-d670-4045-bbb1-ddd5ea68683e@time.is:443?security=tls&sni=azadnet-826.pages.dev&allowInsecure=1&fp=randomized&type=ws&path=/azadnet-826.pages.dev/?ed%3D2560&host=azadnet-826.pages.dev&encryption=none#0452%20%E2%9C%82%EF%B8%8F-%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F-last%2032%20total=1687(@GheychiAmoozesh)
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.85:80?security=&allowInsecure=1&fp=chrome&type=ws&path=/olem/ws?ed%3D2560&host=foffmelo.com&encryption=none#%F0%9F%87%AB%F0%9F%87%B7FR-selection
 wireguard://MIegePSIV4s0eVCdThAXElBCMid6zQgplTgrHicWsW8=@188.114.96.214:1018?public_key=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&local_address=172.16.0.2%2F24%2C2606%3A4700%3A110%3A85e7%3A85eb%3Ad767%3A6d56%3A4d2e%2F128&mtu=1330#%E2%9A%AA%EF%B8%8FTehran%20%C2%A7%200
+https://XWYvRVwmMgwTMhB2LVwAkWAW:mvgojzp3aSXrWgD9AfyeLWMN@193.9.32.3:90#@GheychiAmoozesh-1
+http://XWYvRVwmMgwTMhB2LVwAkWAW:mvgojzp3aSXrWgD9AfyeLWMN@193.9.32.3:90#@GheychiAmoozesh-2
