@@ -1,0 +1,5 @@
+trojan://05bf7037-a3d0-3d4a-96ea-fc4787f798e0@scloud41.jafiyun.world:22041?security=tls&sni=scloud41.jafiyun.world&fp=chrome&type=tcp#%F0%9F%87%A8%F0%9F%87%B3CN-120.240.82.60-046
+ss://YWVzLTI1Ni1jZmI6S0JHalpZY3k0U3lSU2htQQ==@103.172.116.79:9044#%F0%9F%87%B8%F0%9F%87%ACSG-103.172.116.79-8916
+vmess://eyJhZGQiOiIxMDMuODIuMjUuMTA2IiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6ImVjN2M5NGI1LTZjYTYtNDI4OS1iNDRiLWM2NTgzZjJjNWY2YyIsIm5ldCI6IndzIiwicGF0aCI6Ii9mdXp6eW5nP2VkPTIwNDgiLCJwb3J0IjoiODAiLCJwcyI6IvCfh7vwn4ezVk4tMTAzLjgyLjI1LjEwNi04ODg2Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJhdXRvIiwidiI6IjIifQ==
+vless://d0298536-d670-4045-bbb1-ddd5ea68683e@time.is:443?security=tls&sni=azadnet-826.pages.dev&allowInsecure=1&fp=randomized&type=ws&path=/azadnet-826.pages.dev/?ed%3D2560&host=azadnet-826.pages.dev&encryption=none#0452%20%E2%9C%82%EF%B8%8F-%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F-last%2032%20total=1687(@GheychiAmoozesh)
+vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.85:80?security=&allowInsecure=1&fp=chrome&type=ws&path=/olem/ws?ed%3D2560&host=foffmelo.com&encryption=none#%F0%9F%87%AB%F0%9F%87%B7FR-selection
