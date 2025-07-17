@@ -1,3 +1,3 @@
-warp://162.159.195.23:968/?ifp=1-5#@GheychiAmoozesh
-warp://162.159.198.23:500/?ifp=1-5#@GheychiAmoozesh
-warp://162.159.190.23:988/?ifp=1-5#@GheychiAmoozesh
+warp://auto#@GheychiAmoozesh
+warp://auto4#@GheychiAmoozesh
+warp://auto6#@GheychiAmoozesh
