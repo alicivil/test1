@@ -1,63 +1,5 @@
 {
-    "log": {
-        "level": "warn",
-        "output": "box.log",
-        "timestamp": true
-    },
-    "dns": {
-        "servers": [
-            {
-                "tag": "dns-remote",
-                "address": "1.1.1.1",
-                "address_resolver": "dns-direct"
-            },
-            {
-                "tag": "dns-trick-direct",
-                "address": "https://sky.rethinkdns.com/",
-                "detour": "direct-fragment"
-            },
-            {
-                "tag": "dns-direct",
-                "address": "1.1.1.1",
-                "address_resolver": "dns-local",
-                "detour": "direct"
-            },
-            {
-                "tag": "dns-local",
-                "address": "local",
-                "detour": "direct"
-            },
-            {
-                "tag": "dns-block",
-                "address": "rcode://success"
-            }
-        ],
-        "final": "dns-remote",
-        "static_ips": {
-            "sky.rethinkdns.com": [
-                "198.18.0.56",
-                "fc00::35",
-                "198.18.0.57",
-                "fc00::36"
-            ]
-        }
-    },
-    "inbounds": [
-        {
-            "type": "mixed",
-            "tag": "mixed-in",
-            "listen": "127.0.0.1",
-            "listen_port": 12334,
-            "sniff": true,
-            "sniff_override_destination": true
-        },
-        {
-            "type": "direct",
-            "tag": "dns-in",
-            "listen": "127.0.0.1",
-            "listen_port": 16450
-        }
-    ],
+    
     "outbounds": [
         {
             "type": "selector",
@@ -147,30 +89,5 @@
             "type": "block",
             "tag": "block"
         }
-    ],
-    "route": {
-        "rules": [
-            {
-                "inbound": "dns-in",
-                "outbound": "dns-out"
-            },
-            {
-                "port": 53,
-                "outbound": "dns-out"
-            }
-        ],
-        "final": "select",
-        "auto_detect_interface": true,
-        "override_android_vpn": true
-    },
-    "experimental": {
-        "cache_file": {
-            "enabled": true,
-            "path": "clash.db"
-        },
-        "clash_api": {
-            "external_controller": "127.0.0.1:16756",
-            "secret": "Xr8td7ufVkWdN2SP"
-        }
-    }
+    ]
 }
