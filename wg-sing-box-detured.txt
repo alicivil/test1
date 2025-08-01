@@ -1,5 +1,5 @@
 
-    
+   { 
     "outbounds": [
         {
             "type": "selector",
@@ -90,3 +90,5 @@
             "tag": "block"
         }
     ]
+
+}
