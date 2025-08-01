@@ -1,5 +1,4 @@
-
-   { 
+{
     "outbounds": [
         {
             "type": "wireguard",
@@ -41,7 +40,5 @@
             ],
             "mtu": 1330
         }
-   
     ]
-
 }
