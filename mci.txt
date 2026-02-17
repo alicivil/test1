@@ -1,1 +1,3 @@
-
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.141:8080#4881-%F0%9F%87%B3%F0%9F%87%B1%20NL@GheychiAmoozesh
+vless://e6cf712c-7c48-466c-aaed-4154b276a4a4@91.107.208.24:443?security=&allowInsecure=1&fp=random&type=tcp&encryption=none#163-%F0%9F%87%A9%F0%9F%87%AA%20@GheychiAmoozesh
+trojan://8697fe6b-1lWNFc1RmRBNk5NQU5KSnga3fa58ac5a3ef0-b4ab-11eb-b65e-1239d0255272@185.44.76.188:443?security=tls&allowInsecure=1&fp=random&type=tcp#3095-%F0%9F%87%AC%F0%9F%87%A7%20GB@GheychiAmoozesh
