@@ -17,9 +17,6 @@
                 190
             ],
             "mtu": 1330,
-            "fake_packets": "1-5",
-            "fake_packets_size": "10-30",
-            "fake_packets_delay": "10-30",
             "detour": "@GheychiAmoozesh § -1"
         },
         {
